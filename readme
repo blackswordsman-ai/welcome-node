@@ -1,0 +1,17 @@
+#CommonJs(cjs)
+-module.export
+-require()
+-by default used nodejs
+-older way
+-synchronous
+-non strict mode
+ CommonJS Modules
+
+#EsModules(mjs)(es6 modules)
+-import export
+-by default used in recat
+-new way
+-aysnchronous
+ ES6 Modules
+ -strict mode
+
