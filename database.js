@@ -1,6 +1,6 @@
 // episode 13 dbconnection
 const { MongoClient } = require("mongodb");
-const url ="mongodb+srv://dbLanson:123456l@cluster0.nztauop.mongodb.net/"
+// const url ="mongodb+srv://dbLanson:123456l@cluster0.nztauop.mongodb.net/"
 
 const client = new MongoClient(url);
 
